@@ -4,17 +4,85 @@
 
 Welcome to my GitHub portfolio! I'm a Machine Learning Engineer with 3+ years of experience designing and deploying production-grade ML and LLM systems. I specialize in building scalable RAG-based multi-agentic AI frameworks and high-throughput inference pipelines on cloud-native platforms.
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://jenvith-ai-nexus.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jenvithm)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jenvithm10@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jenvithmanduvaa)
+
 ---
 
-## 🚀 About Me
+## 🏆 Key Achievements
 
-- 🔭 Currently building multi-agent AI systems and optimizing LLM inference at **Piper Sandler**
-- 🌱 Passionate about MLOps/LLMOps, scalable AI infrastructure, and responsible AI practices
-- 💡 Expert in deploying production ML models with 99.99% uptime and cost-efficient architectures
-- 🎓 MS in Data Science from Northeastern University, Boston
-- 📫 How to reach me: [jenvithm10@gmail.com](mailto:jenvithm10@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/jenvithm](https://www.linkedin.com/in/jenvithm/)
-- 📍 Based in Boston, MA
+✅ Deployed production ML models with **99.99% uptime** and **50K+ predictions/minute**  
+✅ Reduced LLM inference latency by **35%** and memory usage by **40%**  
+✅ Improved fraud detection recall by **15%** with **<100ms latency**  
+✅ Built CI/CD pipelines improving release velocity by **45%** across 10+ models  
+✅ Achieved **100% reproducible experiments** with zero failed releases  
+
+---
+
+## 💼 Professional Experience
+
+### **Machine Learning Engineer** @ Piper Sandler (Sep 2024 - Present)
+- 🚀 Architected multi-agent RAG framework with LangGraph and LangChain, reducing manual research workload by **40%**
+- ⚡ Optimized LLM inference achieving **35% lower latency** and **40% reduced memory usage**
+- 🎯 Deployed production models handling **50K+ predictions/minute** with **99.99% uptime**
+- 🔧 Built MLOps infrastructure with Kubeflow, KServe, and ArgoCD, improving release velocity by **45%**
+
+### **Machine Learning Engineer** @ Quincy Credit Union (Jan 2024 - Jul 2024)
+- 🛡️ Developed real-time fraud detection system with **<100ms latency**, improving recall by **15%**
+- 💰 Reduced infrastructure costs by **40%** through optimized Kubernetes deployment
+- 🔄 Built CI/CD pipelines reducing deployment time by **90%**
+- 📊 Established comprehensive monitoring with Prometheus/Grafana, achieving **<60s** incident detection
+
+### **Data Scientist** @ Cyient (Jan 2020 - Jul 2022)
+- 📈 Designed streaming ML pipelines processing **500K+ transactions daily** with sub-second latency
+- 🎯 Reduced false positives by **20%** and improved detection accuracy by **15%**
+- 💾 Managed **1TB+/month** of data with automated ETL workflows
+- 🔍 Implemented model monitoring with SHAP, drift detection, and explainability frameworks
+
+---
+
+## 🌟 Featured Projects
+
+### [Corrective RAG System](https://github.com/jenvithmanduvaa/Corrective-RAG)
+Advanced RAG system that evaluates and refines retrieved documents before generation, ensuring higher-quality outputs.
+- **Tech Stack:** LangChain, LangGraph, Vector Databases, Python
+- **Key Features:** 
+  - Document evaluation and refinement pipeline
+  - Quality-aware retrieval mechanism
+  - Self-correcting generation process
+  - Enhanced accuracy through iterative refinement
+
+### [Reflection Agent](https://github.com/jenvithmanduvaa/Reflection-Agent)
+Self-improving AI agent built with LangGraph that critiques and revises its own outputs for enhanced reliability.
+- **Tech Stack:** LangGraph, LangChain, OpenAI API, Python
+- **Key Features:**
+  - Self-critique and revision mechanisms
+  - Multi-step reasoning with quality checks
+  - Iterative output improvement
+  - Enhanced content quality and reliability
+
+### [Flight Booking Data Pipeline](https://github.com/jenvithmanduvaa/Flight-Booking-Airflow-CICD)
+End-to-end data engineering pipeline with automated CI/CD for processing flight booking data on GCP.
+- **Tech Stack:** Apache Airflow, Apache Spark, Google Cloud Platform, BigQuery, GitHub Actions, Docker
+- **Key Features:**
+  - Automated data ingestion and orchestration with Airflow
+  - Scalable PySpark transformations on Dataproc Serverless
+  - Multi-environment deployment (DEV/PROD) with GitHub Actions
+  - Real-time insights generation and BigQuery analytics
+  - Environment-aware configuration management
+
+---
+
+## 💡 Areas of Expertise
+
+- **LLM Engineering:** Fine-tuning, quantization, RAG systems, agentic workflows
+- **MLOps/LLMOps:** CI/CD automation, model versioning, deployment orchestration
+- **Cloud Architecture:** AWS, GCP, Azure - designing cost-efficient, scalable solutions
+- **Real-time ML:** Streaming pipelines, low-latency inference, event-driven architectures
+- **Model Monitoring:** Drift detection, explainability (SHAP/LIME), performance tracking
+- **Data Engineering:** ETL pipelines, feature stores, data governance
 
 ---
 
@@ -78,50 +146,6 @@ Welcome to my GitHub portfolio! I'm a Machine Learning Engineer with 3+ years of
 
 ---
 
-## 🌟 Featured Projects & Experience Highlights
-
-### Multi-Agent RAG Framework | Piper Sandler
-Advanced AI system leveraging LangGraph, LangChain, and vector databases for intelligent research automation.
-- **Tech Stack:** LangGraph, LangChain, Pinecone, FAISS, LLaMA-3.1, LoRA, vLLM, MCP servers
-- **Key Achievements:** 
-  - Reduced manual research workload by 40% with specialized analyst agents
-  - Optimized LLM inference achieving 35% lower latency and 40% reduced memory usage
-  - Deployed production-grade models handling 50K+ predictions/minute with 99.99% uptime
-
-### Real-Time Fraud Detection System | Quincy Credit Union
-End-to-end ML pipeline with real-time inference and automated retraining capabilities.
-- **Tech Stack:** Apache Spark Streaming, Docker, Kubernetes (AWS EKS), MLflow, Airflow, Prometheus, Grafana
-- **Key Achievements:**
-  - Improved fraud detection recall by 15% using Isolation Forest and LSTM models
-  - Achieved <100ms inference latency while reducing infrastructure costs by 40%
-  - Built CI/CD pipeline reducing deployment time by 90%
-
-### Production ML Platform | Cyient
-Scalable ML infrastructure with feature store, monitoring, and automated retraining.
-- **Tech Stack:** AWS SageMaker, EKS, Kubeflow, PySpark, Kafka, SHAP, CloudWatch
-- **Key Achievements:**
-  - Processed 500K+ transactions daily with sub-second latency
-  - Reduced false positives by 20% and improved detection accuracy by 15%
-  - Managed 1TB+/month of data with automated ETL workflows
-
----
-
-## 💼 Professional Experience
-
-**Machine Learning Engineer** @ Piper Sandler (Sep 2024 - Present)
-- Building multi-agent AI systems and optimizing LLM deployments
-- Architecting MLOps infrastructure with Kubeflow, KServe, and ArgoCD
-
-**Machine Learning Engineer** @ Quincy Credit Union (Jan 2024 - Jul 2024)
-- Developed real-time fraud detection system with 99.99% uptime
-- Built CI/CD pipelines reducing deployment time by 90%
-
-**Data Scientist** @ Cyient (Jan 2020 - Jul 2022)
-- Designed streaming ML pipelines processing 500K+ daily transactions
-- Implemented comprehensive model monitoring and explainability frameworks
-
----
-
 ## 🎓 Education
 
 **Master of Science in Data Science**  
@@ -132,38 +156,11 @@ SRM University, India | May 2021
 
 ---
 
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jenvithm)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jenvithm10@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jenvithmanduvaa)
-
----
-
-## 💡 Areas of Expertise
-
-- **LLM Engineering:** Fine-tuning, quantization, RAG systems, agentic workflows
-- **MLOps/LLMOps:** CI/CD automation, model versioning, deployment orchestration
-- **Cloud Architecture:** AWS, GCP, Azure - designing cost-efficient, scalable solutions
-- **Real-time ML:** Streaming pipelines, low-latency inference, event-driven architectures
-- **Model Monitoring:** Drift detection, explainability (SHAP/LIME), performance tracking
-- **Data Engineering:** ETL pipelines, feature stores, data governance
-
----
-
-## 🏆 Key Achievements
-
-✅ Deployed production ML models with **99.99% uptime** and **50K+ predictions/minute**  
-✅ Reduced LLM inference latency by **35%** and memory usage by **40%**  
-✅ Improved fraud detection recall by **15%** with **<100ms latency**  
-✅ Built CI/CD pipelines improving release velocity by **45%** across 10+ models  
-✅ Achieved **100% reproducible experiments** with zero failed releases  
-
----
-
 ## 💼 Open to Opportunities
 
 I'm passionate about building scalable, reliable, and cost-efficient AI solutions. Always interested in collaborating on innovative ML projects or discussing new opportunities in MLOps, LLM engineering, and AI infrastructure.
+
+Feel free to reach out via [email](mailto:jenvithm10@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/jenvithm)!
 
 ---
 
