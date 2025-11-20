@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Jenvith Manduva
+# 👋 Hi, I'm Jenvith M
 
 ### 🤖 Machine Learning Engineer | ⚡ MLOps Specialist | 🚀 AI Solutions Architect
 
