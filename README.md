@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Jenvith M
+# 👋 Hi, I'm Jenvith Manduva
 
 ### 🤖 Machine Learning Engineer | ⚡ MLOps Specialist | 🚀 AI Solutions Architect
 
@@ -26,10 +26,11 @@
 <td width="50%">
 
 ```diff
-@@                Production Excellence               @@
-+ 99.99% uptime across production ML models
-+ Automated drift detection & zero-downtime rollbacks
-+ ArgoCD-powered deployment strategies
+@@            LLM & Multi-Agent AI Systems           @@
++ Built RAG-based multi-agentic frameworks with LangGraph
++ Deployed LoRA fine-tuned LLaMA-3.1-8B models
++ 40% reduction in manual research workload
++ Advanced prompt engineering for explainable AI
 ```
 
 </td>
@@ -39,7 +40,32 @@
 @@              Performance Optimization              @@
 + 35% lower LLM inference latency
 + 40% reduction in memory usage
-+ Advanced KV caching & GPU optimization
++ KV caching & GPU optimization strategies
++ Cost-efficient enterprise deployments
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+```diff
+@@                Production Excellence               @@
++ 99.99% uptime with 50K+ predictions/minute
++ Automated drift detection & zero-downtime rollbacks
++ ArgoCD-powered GitOps deployment strategies
++ 100% reproducible experiments
+```
+
+</td>
+<td width="50%">
+
+```diff
+@@              MLOps/LLMOps Excellence              @@
++ 45% faster release velocity across 10+ models
++ 60% reduction in deployment time
++ GitOps with Terraform & Kubeflow Pipelines
++ Audit-ready logging & governance
 ```
 
 </td>
@@ -51,6 +77,7 @@
 @@               Real-time Systems                    @@
 + <100ms latency in fraud detection
 + 15% improvement in model recall
++ 500K+ transactions/daily processing
 + Streaming pipelines with Kafka & Spark
 ```
 
@@ -58,10 +85,11 @@
 <td width="50%">
 
 ```diff
-@@              MLOps/LLMOps Excellence              @@
-+ 45% faster release velocity
-+ GitOps-driven deployments across 10+ models
-+ 100% reproducible experiments
+@@              AI Agent Specialization              @@
++ Specialized agents for sentiment & research
++ Extended context window management
++ Memory-efficient multi-agent orchestration
++ Embeddings & vector search (FAISS/Pinecone)
 ```
 
 </td>
