@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jenvith M
+# 👋 Hi, I'm Jenvith Manduva
 
 ### Machine Learning Engineer | MLOps Specialist | AI Solutions Architect
 
@@ -13,11 +13,11 @@ Welcome to my GitHub portfolio! I'm a Machine Learning Engineer with 3+ years of
 
 ## 🏆 Key Achievements
 
-✅ Deployed production ML models with **99.99% uptime** and **50K+ predictions/minute**  
-✅ Reduced LLM inference latency by **35%** and memory usage by **40%**  
-✅ Improved fraud detection recall by **15%** with **<100ms latency**  
-✅ Built CI/CD pipelines improving release velocity by **45%** across 10+ models  
-✅ Achieved **100% reproducible experiments** with zero failed releases  
+✅ Deployed production ML models with **99.99% uptime**, automated drift detection, and zero-downtime rollbacks using ArgoCD  
+✅ Reduced LLM inference latency by **35%** and memory usage by **40%** through advanced optimization techniques  
+✅ Improved fraud detection recall by **15%** with **<100ms latency** in real-time streaming pipelines  
+✅ Built **LLMOps/AIOps pipelines** improving release velocity by **45%** with GitOps-driven deployments across 10+ models  
+✅ Achieved **100% reproducible experiments** and automated model governance with comprehensive observability  
 
 ---
 
