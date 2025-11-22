@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Jenvith Manduva
+# 👋 Hi, I'm Jenvith M
 
 ### 🤖 Machine Learning Engineer | ⚡ MLOps Specialist | 🚀 AI Solutions Architect
 
@@ -238,89 +238,113 @@
 <div align="center">
 
 ### 🔗 [Corrective RAG System](https://github.com/jenvithmanduvaa/Corrective-RAG)
-> 🎯 Advanced RAG system with document evaluation and refinement
+
+<img src="https://img.shields.io/badge/Category-LLMs_&_GenAI-9146FF?style=for-the-badge" />
+
+> 🎯 Advanced RAG system with document evaluation and refinement for higher-quality outputs
+
+#### ✨ Key Features
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-**Features:**
+🎯 **Core Capabilities**
 - ✅ Document quality evaluation
 - 🔄 Self-correcting retrieval
 - 🎯 Enhanced accuracy
 - 🚀 Iterative refinement
 
 </td>
-<td>
+<td width="50%">
 
-**Tech Stack:**
-```
-LangChain • LangGraph
-Vector DBs • Python
-FAISS • Pinecone
+💻 **Tech Stack**
+```yaml
+LLM: LangChain, LangGraph
+Vector: FAISS, Pinecone
+Language: Python
+Architecture: RAG Pipeline
 ```
 
 </td>
 </tr>
 </table>
 
+[![View Project](https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jenvithmanduvaa/Corrective-RAG)
+
 ---
 
 ### 🤖 [Reflection Agent](https://github.com/jenvithmanduvaa/Reflection-Agent)
+
+<img src="https://img.shields.io/badge/Category-AI_Agents-00D9FF?style=for-the-badge" />
+
 > 🧠 Self-improving AI agent with critique and revision capabilities
+
+#### ✨ Key Features
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-**Features:**
+🎯 **Core Capabilities**
 - 🔍 Self-critique mechanism
 - ♻️ Multi-step reasoning
 - 📈 Iterative improvement
 - ✨ Quality enhancement
 
 </td>
-<td>
+<td width="50%">
 
-**Tech Stack:**
-```
-LangGraph • LangChain
-OpenAI API • Python
-Prompt Engineering
+💻 **Tech Stack**
+```yaml
+Framework: LangGraph, LangChain
+API: OpenAI API
+Language: Python
+Focus: Prompt Engineering
 ```
 
 </td>
 </tr>
 </table>
 
+[![View Project](https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jenvithmanduvaa/Reflection-Agent)
+
 ---
 
 ### ✈️ [Flight Booking Data Pipeline](https://github.com/jenvithmanduvaa/Flight-Booking-Airflow-CICD)
-> 📊 End-to-end data engineering pipeline with automated CI/CD
+
+<img src="https://img.shields.io/badge/Category-Data_Engineering-FF6B6B?style=for-the-badge" />
+
+> 📊 End-to-end data engineering pipeline with automated CI/CD on GCP
+
+#### ✨ Key Features
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-**Features:**
+🎯 **Core Capabilities**
 - 🔄 Automated orchestration
 - ⚡ PySpark transformations
 - 🌐 Multi-environment (DEV/PROD)
 - 📈 Real-time insights
 
 </td>
-<td>
+<td width="50%">
 
-**Tech Stack:**
-```
-Apache Airflow • Spark
-GCP • BigQuery
-GitHub Actions • Docker
+💻 **Tech Stack**
+```yaml
+Orchestration: Apache Airflow
+Processing: Apache Spark
+Cloud: GCP, BigQuery
+CICD: GitHub Actions, Docker
 ```
 
 </td>
 </tr>
 </table>
+
+[![View Project](https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jenvithmanduvaa/Flight-Booking-Airflow-CICD)
 
 </div>
 
@@ -468,10 +492,34 @@ Collaboration: "Open to innovative projects and opportunities"
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jenvithmanduvaa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+## 📈 Profile Analytics
 
+<div align="center">
+
+### 📊 Visitor Statistics
+
+<table>
+<tr>
+<td align="center">
+<img src="https://komarev.com/ghpvc/?username=jenvithmanduvaa&label=Total%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="Total Views" />
+</td>
+<td align="center">
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjenvithmanduvaa">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjenvithmanduvaa&label=Unique%20Visitors&labelColor=%23697689&countColor=%232ccce4&style=for-the-badge" />
+</a>
+</td>
+</tr>
+</table>
+
+
+[![Portfolio Analytics](https://img.shields.io/badge/View%20Detailed%20Analytics-Visit%20Portfolio-4285F4?style=for-the-badge&logo=google-analytics)](https://jenvith-ai-nexus.lovable.app/)
+
+</div>
+
+---
+
+<p align="center">
 **⭐️ From [Jenvith M](https://github.com/jenvithmanduvaa) | Built with 💙 and lots of ☕**
+</p>
 
 </div>
