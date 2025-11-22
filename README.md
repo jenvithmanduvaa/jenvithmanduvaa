@@ -474,7 +474,6 @@ India
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-4285F4?style=for-the-badge)](https://jenvith-ai-nexus.lovable.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jenvithm)
 [![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail)](mailto:jenvithm10@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-(617)_752--6363-25D366?style=for-the-badge&logo=whatsapp)](tel:+16177526363)
 
 <br>
 
